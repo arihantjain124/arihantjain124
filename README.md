@@ -48,7 +48,16 @@ A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV m
 `OpenCV` `ADB` `Automation`
 
 </td>
+<td width="50%" valign="top">
 
+### 🧩 [Sudoku Capture Solver](https://github.com/arihantjain124/Sudoku-Capture-Solver)
+Point a camera at a printed Sudoku puzzle and watch it get solved — OpenCV locates and warps the grid, a small CNN reads each digit, and a backtracking solver fills in the rest.
+
+`OpenCV` `CNN` `Backtracking`
+
+</td>
+</tr>
+</table>
 
 ## Publications
 
@@ -80,3 +89,5 @@ A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV m
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
+
+<sub>This profile README lives in the special [`arihantjain124/arihantjain124`](https://github.com/arihantjain124/arihantjain124) repository — edit it any time to update what shows on my profile page.</sub>
