@@ -2,23 +2,11 @@
 
 Research engineer from **IIT Madras**, working on deep learning and agentic AI — self-taught in Python & C++, and generally curious about anything from cosmos to the silicon lithography.
 
-- 🔭 Currently building agent infrastructure (context engineering, multi-agent orchestration) at **Terrabase AI**
 - 🎓 M.S. Electrical Engineering, IIT Madras — deep learning for medical imaging
 - 📄 Published at SASHIMI @ MICCAI 2025 and IEEE EMBC 2023 / 2024
 - 🌱 Interests: Generative AI, LLMs, computer vision, medical image reconstruction, GPU profiling & optimisation
-- 📍 Chennai, Tamil Nadu, India
+- 📍 India
 - 📫 Reach me at [arihantjain124@outlook.com](mailto:arihantjain124@outlook.com) · [Google Scholar](https://scholar.google.com/citations?user=KZgfM) · [LinkedIn](https://linkedin.com/in/arihantjain124)
-
-## Experience
-
-| | | |
-|---|---|---|
-| **AI Engineer**, Terrabase AI | Nov 2025 – present | Agent infrastructure for a semantic layer over enterprise data — database ingestion, context engineering, FastAPI backends, and LangChain/LangGraph multi-agent orchestration. |
-| **AI Researcher**, SuperAGI | Aug 2024 – Oct 2025 | Rapid-prototyping frameworks for AI agent systems on a sales-automation CRM; built a RAG-based AI chat assistant and cut monthly LLM operational costs by 12%+ through inference/cost optimisation. |
-| **Research Associate**, Sudha Gopalakrishnan BRAIN Centre, IIT Madras | Nov 2022 – May 2024 | Benchmarked NVIDIA DGX supercomputer systems with NVIDIA engineers — GPU profiling, mixed-precision analysis, and quantization/knowledge-distillation/pruning trade-offs for accelerating deep learning on HPC. |
-| **Research Associate**, Healthcare Technology Innovation Centre, IIT Madras | Sep 2021 – Jan 2023 | Worked with GE HealthCare to extract and structure NCCN clinical cancer guidelines from PDFs into queryable knowledge models, powering guideline-adherence checks against patient reports. |
-| **Robotics Embedded Engineer**, Articulus Surgical | Apr 2021 – Jul 2021 | Built communication/control libraries (C + Python) for a laparoscopic surgical robot prototype; CAD modelling and inverse-kinematic control integrated into V-REP simulation. |
-| **Electrical Team Head**, Avishkar Hyperloop (IIT Madras Student Team) | Aug 2021 – Jan 2023 | Led the pod↔base-station communication interface; represented the team at European Hyperloop Week 2022, TU Delft. |
 
 ## Featured work
 
@@ -42,14 +30,6 @@ Exploratory analysis of the Electoral Bonds dataset released after the Supreme C
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 Clinical Guideline Knowledge Models
-Automated extraction of NCCN cancer clinical practice guidelines into computable, queryable knowledge graphs, enabling guideline-adherence QA over patient reports — with GE HealthCare at IIT Madras' Healthcare Technology Innovation Centre.
-
-`NLP` `Knowledge Graphs` `Question Answering` · IEEE EMBC 2023 & 2024
-
-</td>
 <td width="50%" valign="top">
 
 ### ⚡ Neural Network in CUDA C++
