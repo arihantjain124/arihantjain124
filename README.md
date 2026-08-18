@@ -38,22 +38,12 @@ A neural network built from scratch in CUDA/C++ to explore GPU-accelerated matri
 `CUDA` `C++` `GPU Programming`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🕹️ [Stick Hero – Automate](https://github.com/arihantjain124/StickHero-Automate)
 A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV measures pillar-gap distance with pixel-perfect accuracy from a mirrored screen, then ADB drives the phone to hold the screen for exactly the right duration.
 
 `OpenCV` `ADB` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 [Sudoku Capture Solver](https://github.com/arihantjain124/Sudoku-Capture-Solver)
-Point a camera at a printed Sudoku puzzle and watch it get solved — OpenCV locates and warps the grid, a small CNN reads each digit, and a backtracking solver fills in the rest.
-
-`OpenCV` `CNN` `Backtracking`
 
 </td>
 </tr>
