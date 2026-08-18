@@ -55,12 +55,6 @@ A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV m
 - **Knowledge Models for Cancer Clinical Practice Guidelines: Construction, Management and Usage in Question Answering** — P. Tummala, B. Gullapalli, A. Jain, S. Sitaraman, K. Ram, M. Sivaprakasam. *IEEE EMBC 2024.*
 - **Automated Knowledge Modelling for Cancer Clinical Practice Guidelines** — P. Tummala, B. Gullapalli, A. Jain, S. Sitaraman, A. Sharma, K. Ram, M. Sivaprakasam. *IEEE EMBC 2023.*
 
-## GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arihantjain124&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Arihant's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihantjain124&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ## Tech I work with
 
@@ -80,4 +74,3 @@ A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV m
 
 ---
 
-<sub>This profile README lives in the special [`arihantjain124/arihantjain124`](https://github.com/arihantjain124/arihantjain124) repository — edit it any time to update what shows on my profile page.</sub>
