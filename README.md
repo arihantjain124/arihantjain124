@@ -2,7 +2,7 @@
 
 Research engineer from **IIT Madras**, working on deep learning and agentic AI — self-taught in Python & C++, and generally curious about anything from cosmos to the silicon lithography.
 
-- 🎓 M.S. Electrical Engineering, IIT Madras — deep learning for medical imaging
+- 🎓 M.S. Electrical Engineering, IIT Madras
 - 📄 Published at SASHIMI @ MICCAI 2025 and IEEE EMBC 2023 / 2024
 - 🌱 Interests: Generative AI, LLMs, computer vision, medical image reconstruction, GPU profiling & optimisation
 - 📍 India
