@@ -1,53 +1,23 @@
-# Hi, I'm Arihant Jain 👋
+<p align="center">
+  <a href="https://arihantjain124.github.io"><img src="https://img.shields.io/badge/Portfolio-172528?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/arihantjain124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arihantjain124@outlook.com"><img src="https://img.shields.io/badge/Email-ff835f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
-Research engineer from **IIT Madras**, working on deep learning and agentic AI — self-taught in Python & C++, and generally curious about anything from cosmos to the silicon lithography.
+# Arihant Jain
 
-- 🎓 M.S. Electrical Engineering, IIT Madras
-- 📄 Published at SASHIMI @ MICCAI 2025 and IEEE EMBC 2023 / 2024
-- 🌱 Interests: Generative AI, LLMs, computer vision, medical image reconstruction, GPU profiling & optimisation
-- 📍 India
-- 📫 Reach me at [arihantjain124@outlook.com](mailto:arihantjain124@outlook.com) · [Google Scholar](https://scholar.google.com/citations?user=KZgfM) · [LinkedIn](https://linkedin.com/in/arihantjain124)
+Research engineer at **IIT Madras**, working on deep learning, medical imaging, generative AI, and high-performance computing. I build systems that pair scientific depth with practical engineering.
 
-## Featured work
+**[Visit my portfolio →](https://arihantjain124.github.io)**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected work
 
-### 🧠 [FastDTI](https://github.com/arihantjain124/HCP_SR)
-3D scale-arbitrary super-resolution autoencoder for Diffusion Tensor Imaging. Maps six diffusion-weighted images to clinical MD/FA/direction maps in a single forward pass, using curriculum learning and an RDN + implicit-decoder architecture. ~6× faster inference than diffusion-model baselines, best PSNR/NMSE among all evaluated methods on the Human Connectome Project dataset. **Published at SASHIMI, MICCAI 2025.**
-
-`PyTorch` `3D CNNs` `Medical Imaging` `HCP Dataset`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ [Electoral Bond Analysis](https://github.com/arihantjain124/ElectoralBond)
-Exploratory analysis of the Electoral Bonds dataset released after the Supreme Court of India struck down the anonymous political-funding scheme in Feb 2024. Cleans and visualises SBI/ECI disclosure data to show top donors, top recipient parties, and funding trends over time.
-
-`Pandas` `Data Visualization` `Public Data`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Neural Network in CUDA C++
-A neural network built from scratch in CUDA/C++ to explore GPU-accelerated matrix multiplication, and the precision-vs-memory trade-offs of storing parameters at different bit widths.
-
-`CUDA` `C++` `GPU Programming`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕹️ [Stick Hero – Automate](https://github.com/arihantjain124/StickHero-Automate)
-A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV measures pillar-gap distance with pixel-perfect accuracy from a mirrored screen, then ADB drives the phone to hold the screen for exactly the right duration.
-
-`OpenCV` `ADB` `Automation`
-
-</td>
-</tr>
-</table>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [FastDTI](https://github.com/arihantjain124/HCP_SR) | A single-pass, 3D scale-arbitrary super-resolution model for diffusion-tensor imaging. Published at SASHIMI, MICCAI 2025; ~6× faster inference than diffusion-model baselines. | PyTorch · 3D CNNs · Medical imaging |
+| [Electoral Bond Analysis](https://github.com/arihantjain124/ElectoralBond) | Reproducible analysis and visualisation of India’s public electoral-bond disclosures. | Python · Pandas · Plotly |
+| [Sudoku Capture Solver](https://github.com/arihantjain124/Sudoku-Capture-Solver) | Camera-to-solution pipeline: detect, read, solve, and overlay a printed Sudoku puzzle. | OpenCV · TensorFlow · Keras |
+| [Neural Networks in CUDA](https://github.com/arihantjain124/CS6023_CP) | From-scratch CUDA/C++ experiments in GPU matrix operations and precision–memory trade-offs. | CUDA · C++ |
 
 ## Publications
 
@@ -55,22 +25,8 @@ A computer-vision bot that plays the mobile game Stick Hero for you — OpenCV m
 - **Knowledge Models for Cancer Clinical Practice Guidelines: Construction, Management and Usage in Question Answering** — P. Tummala, B. Gullapalli, A. Jain, S. Sitaraman, K. Ram, M. Sivaprakasam. *IEEE EMBC 2024.*
 - **Automated Knowledge Modelling for Cancer Clinical Practice Guidelines** — P. Tummala, B. Gullapalli, A. Jain, S. Sitaraman, A. Sharma, K. Ram, M. Sivaprakasam. *IEEE EMBC 2023.*
 
+## Working with
 
-## Tech I work with
+`Python` `PyTorch` `C++` `CUDA` `Computer Vision` `LLMs` `FastAPI` `Docker` `Data visualisation`
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
+<p align="center"><sub>Based in India · Open to research conversations</sub></p>
