@@ -1,7 +1,7 @@
 <h1 align="center">Arihant Jain</h1>
 
 <p align="center">
-  Research engineer at <strong>IIT Madras</strong> · Deep learning · Medical imaging · AI systems
+Research engineer at <strong>IIT Madras</strong> · Deep learning · Medical imaging · AI systems
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:arihantjain124@outlook.com">Email</a>
 </p>
 
-I build machine-learning systems where scientific depth meets useful engineering — from 3D medical-image reconstruction and computer vision to generative AI and GPU-aware computing.
+I’m a research engineer at IIT Madras with an M.S. in Electrical Engineering. My work sits at the intersection of deep learning, medical-image reconstruction, and agentic AI. I build and evaluate practical models in PyTorch, with a particular interest in 3D vision and GPU-aware optimisation.
 
 ## Selected work
 
